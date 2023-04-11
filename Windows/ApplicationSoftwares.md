@@ -36,6 +36,7 @@
 - [RTools](https://cran.r-project.org/bin/windows/Rtools/)
 - [RStudio Desktop](https://posit.co/download/rstudio-desktop/)
 - [SAKURA Editor](https://ci.appveyor.com/project/sakuraeditor/sakura/branch/master)
+- [diff.exe](http://www.ring.gr.jp/pub/text/TeX/ptex-win32/w32/)
 - [Slack](https://slack.com/intl/ja-jp/downloads/windows)
 - [SumatraPDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer)
 - [Vivaldi](https://vivaldi.com/ja/download/)
